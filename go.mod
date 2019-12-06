@@ -1,4 +1,4 @@
-module github.com/walkbean/vsys-sdk-go
+module github.com/virtualeconomy/go-v-sdk
 
 go 1.13
 

@@ -6,7 +6,7 @@ The golang library for V Systems Blockchain.
 Use `go get` to retrieve the SDK sto add it to your `GOPATH` workspace, or
 project's Go module dependencies.
 
-	go get github.com/walkbean/vsys-sdk-go
+	go get github.com/virtualeconomy/go-v-sdk
 	
 ### Dependencies
 The SDK includes a vendor folder containing the runtime dependencies of the SDK. The metadata of the SDK's dependencies can be found in the GoVendor file vendor/vendor.json.
